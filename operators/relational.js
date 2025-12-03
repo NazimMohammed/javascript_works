@@ -1,0 +1,15 @@
+//relational operator
+// used for comparing two objects and return boolean value
+// <,>,<=,>=,!=,==
+
+
+var num1 = 10;
+var num2 = 20;
+
+console.log(num1 > num2); //10>20 false
+
+console.log(num1 < num2); //20>10 true
+
+console.log(num1 == num2); //10=20 false
+
+console.log(num1 != num2); //10 not = 20 true
